@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/UnityChan/Scenes/UnityChan_hw.unity
+  isLoaded: 1
+  isActive: 1
